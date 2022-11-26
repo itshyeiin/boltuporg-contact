@@ -556,3 +556,12 @@ body.dark-theme{
   font-size: var(--smaller-font-size);
   z-index: 10;
 }
+
+.dark-theme .link{
+  color: #E0E1DD;
+}
+
+.link{
+  color: #1B263B;
+  text-decoration: underline;
+}
